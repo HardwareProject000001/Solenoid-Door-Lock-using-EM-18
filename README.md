@@ -33,7 +33,7 @@ This project involves creating a solenoid door lock system using an EM-18 RFID r
 ## Components Overview
 
 ### 16x2 LCD Display
-<p>
+<p align = "center">
 <img width="640" src="https://github.com/user-attachments/assets/936b2ad0-e99e-46e1-89de-cc10ff3d7c10"/>
 </p>
 
@@ -47,7 +47,7 @@ This project involves creating a solenoid door lock system using an EM-18 RFID r
 - **Features:** Includes potentiometer for brightness control.
 
 ### EM-18 RFID Reader Module
-<p>
+<p align = "center">
 <img width="340" src="https://github.com/user-attachments/assets/a7bbc91b-69bb-43b6-88b9-63c18c14d7e1">
 </p>
 
@@ -55,7 +55,7 @@ This project involves creating a solenoid door lock system using an EM-18 RFID r
 - **Interface:** UART communication with microcontrollers.
 
 ### Solenoid Door Lock
-<p>
+<p align = "center">
 <img width="340" src="https://github.com/user-attachments/assets/422c5991-b073-458f-b5d1-de40e255687e">
 </p>
 
